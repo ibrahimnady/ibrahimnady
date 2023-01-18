@@ -28,7 +28,7 @@
 <a href="https://twitter.com/ibrahim59887371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibrahim59887371" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ibrahim-nady-466b931b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-nady-466b931b6" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17115429/ibrahim-nady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17115429/ibrahim-nady" height="30" width="40" /></a>
-<a href="https://fb.com/ebraheem.nady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ebraheem.nady" height="30" width="40" /></a>
+<a href="https://fb.com/IbrahimNady0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ebraheem.nady" height="30" width="40" /></a>
 <a href="https://instagram.com/ibrahim59887371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahim59887371" height="30" width="40" /></a>
 </p>
 
