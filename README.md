@@ -19,7 +19,7 @@
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/ibrahimnady)
 - <h3 align="left">Connect with me:</h3>
 - My WebSite : https://ibrahimnady.github.io/protofilo-official/
-- Facebook : https://www.facebook.com/ebraheem.nady
+- Facebook : https://www.facebook.com/IbrahimNady0
 - WhatsApp : https://wa.me/+201151262332
 - Linkedin : https://www.linkedin.com/in/ibrahim-nady-466b931b6/
 - Instagram : https://www.instagram.com/ebrahim.pop/
