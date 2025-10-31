@@ -3,11 +3,10 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?logo=powerbi)
-![SQL](https://img.shields.io/badge/SQL-Data%20Queries-orange)
-![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-green)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Storytelling-lightgrey)
+[![Role](https://img.shields.io/badge/Role-Data%20Analyst-0A66C2?style=flat&logo=data:image/png;base64,iVBORw0KGgo)]()
+[![Focus](https://img.shields.io/badge/Focus-BI%20%7C%20Machine%20Learning-blueviolet?style=flat)]()
+[![Tools](https://img.shields.io/badge/Tools-Python%20%7C%20Power%20BI%20%7C%20SQL-yellow?style=flat&logo=python&logoColor=white)]()
+
 
 </div>
 
