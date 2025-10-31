@@ -2,15 +2,9 @@
 
 <div align="center" style="font-size: 22px; font-weight: bold; margin-top: 15px;">
 
-<a href="https://www.linkedin.com/in/ibrahim-nady-466b931b6">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:ibrahimnady.abdelrahman@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://ibrahimnady.github.io/protofilo-official/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-brightgreen?style=flat)](https://ibrahimnady.github.io/protofilo-official/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-nady-466b931b6)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:ibrahimnady.abdelrahman@gmail.com)
 
 </div>
 
@@ -18,11 +12,11 @@
 
 <div align="center" style="font-size: 22px; font-weight: bold;">
 
-<img src="https://img.shields.io/badge/Data%20Analysis-Storytelling-2F4F4F?style=for-the-badge&logo=data&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-Data%20Queries-CC2927?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-Data%20Cleaning-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?logo=powerbi)
+![SQL](https://img.shields.io/badge/SQL-Data%20Queries-orange)
+![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-green)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Insights-lightgrey)
 
 </div>
 
