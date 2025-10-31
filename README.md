@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm Ibrahim Nady Abdel Rahman</h1>
 
-<div align="center" >
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-3b4cca?style=flat&logo=google-chrome&logoColor=white)](https://ibrahimnady.github.io/protofilo-official/)
-[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-nady-466b931b6)
-[![Email](https://img.shields.io/badge/✉️%20Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white)](mailto:ibrahimnady.abdelrahman@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-nady-466b931b6)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white)](mailto:ibrahimnady.abdelrahman@gmail.com)
 
 </div>
 
@@ -12,11 +12,11 @@
 
 <div align="center">
 
-![🐍 Python](https://img.shields.io/badge/Python-Programming-blue?logo=python&logoColor=white)
-![📊 Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?logo=powerbi&logoColor=black)
-![🧠 SQL](https://img.shields.io/badge/SQL-Data%20Queries-F29111?logo=sqlite&logoColor=white)
-![📗 Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-217346?logo=microsoft-excel&logoColor=white)
-![📈 Data Analysis](https://img.shields.io/badge/Data%20Analysis-Insights-808080?logo=google-analytics&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Programming-blue?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Data%20Queries-F29111?style=flat&logo=sqlite&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Insights-808080?style=flat&logo=google-analytics&logoColor=white)
 
 </div>
 
