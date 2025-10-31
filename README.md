@@ -11,16 +11,16 @@
 
 <h3 align="center">Data Analyst | BI Developer | Python Enthusiast</h3>
 
-<div align="center">
-  
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Storytelling-lightgrey)
-![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?logo=powerbi)
-![SQL](https://img.shields.io/badge/SQL-Data%20Queries-orange)
-![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-green)
+<div align="center" style="font-size: 22px;">
 
+<img src="https://img.shields.io/badge/Data%20Analysis-Storytelling-lightgrey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power%20BI-Dashboards-yellow?logo=powerbi&style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-Data%20Queries-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Excel-Data%20Cleaning-green?style=for-the-badge" />
 
 </div>
+
 
 
 
