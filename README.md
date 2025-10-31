@@ -3,12 +3,14 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ibrahimnady&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ibrahimnady)
-[![GitHub Followers](https://img.shields.io/github/followers/ibrahimnady?style=social)](https://github.com/ibrahimnady)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-nady-466b931b6)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:ibrahimnady.abdelrahman@gmail.com)
+![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?logo=powerbi)
+![SQL](https://img.shields.io/badge/SQL-Data%20Queries-orange)
+![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-green)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Storytelling-lightgrey)
 
 </div>
+
 
 ---
 
