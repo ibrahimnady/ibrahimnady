@@ -2,7 +2,7 @@
 
 <div align="center" >
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-1E88E5?style=flat&logo=google-chrome&logoColor=white)](https://ibrahimnady.github.io/protofilo-official/)
+[![Portfolio](https://img.shields.io/badge/%20Portfolio-Visit%20My%20Website-3b4cca?style=flat&logo=google-chrome&logoColor=white)](https://ibrahimnady.github.io/protofilo-official/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-nady-466b931b6)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:ibrahimnady.abdelrahman@gmail.com)
 
