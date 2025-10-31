@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Ibrahim Nady Abdel Rahman</h1>
 
 <div align="center">
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-brightgreen?style=flat)](https://ibrahimnady.github.io/protofilo-official/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-nady-466b931b6)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:ibrahimnady.abdelrahman@gmail.com)
 
