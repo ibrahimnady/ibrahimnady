@@ -1,6 +1,4 @@
 <h1 align="center">Hello, I'm Ibrahim Nady Abdel Rahman</h1>
-<h3 align="center">Data Analyst | BI Developer | Python Enthusiast</h3>
-
 
 <div align="center">
 
@@ -8,6 +6,8 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:ibrahimnady.abdelrahman@gmail.com)
 
 </div>
+
+<h3 align="center">Data Analyst | BI Developer | Python Enthusiast</h3>
 
 <div align="center">
 
@@ -61,9 +61,9 @@ I love solving problems using data-driven approaches and building dashboards tha
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="40" alt="Excel logo" />
 </div>
