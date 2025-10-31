@@ -1,6 +1,14 @@
 <h1 align="center">Hello, I'm Ibrahim Nady Abdel Rahman</h1>
 <h3 align="center">Data Analyst | BI Developer | Python Enthusiast</h3>
 
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-nady-466b931b6)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:ibrahimnady.abdelrahman@gmail.com)
+
+</div>
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
@@ -10,12 +18,7 @@
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Storytelling-lightgrey)
 
 </div>
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-nady-466b931b6)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:ibrahimnady.abdelrahman@gmail.com)
-
-</div>
 
 
 
