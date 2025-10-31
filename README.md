@@ -83,3 +83,7 @@ I love solving problems using data-driven approaches and building dashboards tha
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
+
+<div align="center">
+  <img src="project 1.pdf" alt="Sales Dashboard" width="700"/>
+</div>
