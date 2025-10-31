@@ -14,7 +14,7 @@
 
 </div>
 
-<h3 align="center">Data Analyst | BI Developer | Python Enthusiast</h3>
+<h2 align="center">Data Analyst | BI Developer | Python Enthusiast</h2>
 
 <div align="center" style="font-size: 22px; font-weight: bold;">
 
