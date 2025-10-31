@@ -1,16 +1,16 @@
 <h1 align="center">Hello, I'm Ibrahim Nady Abdel Rahman</h1>
 
-<div align="center" style="font-size: 22px; font-weight: bold; margin-top: 15px;">
+<div align="center" >
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-brightgreen?style=flat)](https://ibrahimnady.github.io/protofilo-official/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-1E88E5?style=flat&logo=google-chrome&logoColor=white)](https://ibrahimnady.github.io/protofilo-official/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-nady-466b931b6)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:ibrahimnady.abdelrahman@gmail.com)
 
 </div>
 
-<h2 align="center">Data Analyst | BI Developer | Python Enthusiast</h2>
+<h2 align="center">Data Analyst | BI Developer | Excel | Python Enthusiast | SQL </h2>
 
-<div align="center" style="font-size: 22px; font-weight: bold;">
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?logo=powerbi)
