@@ -12,12 +12,13 @@
 <h3 align="center">Data Analyst | BI Developer | Python Enthusiast</h3>
 
 <div align="center">
-
+  
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Storytelling-lightgrey)
 ![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?logo=powerbi)
 ![SQL](https://img.shields.io/badge/SQL-Data%20Queries-orange)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-green)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Storytelling-lightgrey)
+
 
 </div>
 
