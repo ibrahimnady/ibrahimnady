@@ -12,7 +12,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- Data Analysis 
 - Graphic Designer
 - Currently learning Web Development by Self
 - Personal website [Protofilo](https://ibrahimnady.github.io/protofilo-official/)
